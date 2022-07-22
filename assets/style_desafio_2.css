@@ -1,0 +1,46 @@
+header {
+    background-color: rgb(209, 211, 77);
+    background-position: center;
+    background-size: cover;
+    padding: 1em;
+    font-size: 1.5em;
+    background-image: url(../assets/img/head_beer.jpg);
+    border: solid rgb(8, 8, 5) 1px;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+
+body {
+    background-image: url(../assets/img/fondo_6_burger.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+section {
+    margin-top: 1em;
+    background-color: black;
+    opacity: 90%;
+}
+
+
+div {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    color: rgb(192, 192, 42);
+}
+
+
+footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(209, 212, 33);
+    color: black;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
